@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "48gjj",
+      "name": "rajesh",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQyy_dtZvstOR_-EpfdrKOrcAeMmWVhIHxA&s",
+      "mobile": "890384032933",
+      "email": "mannu@gmail.com",
+      "company": "tcs",
+      "title": "freelancer",
+      "groupId": "1"
+    },
+    {
+      "id": "48gss",
+      "name": "piyush",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPty6a8rKXnhOmdXVo_vgCZaQ6p0bu66n-ZA&s",
+      "mobile": "90384034533",
+      "email": "piyush@gmail.com",
+      "company": "ISG",
+      "title": "freelancer",
+      "groupId": "2"
+    },
+    {
+      "id": "434ss",
+      "name": "Lauhit",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9hSBe5Zkrz0adu31yTLrGcyYS6T9FppiEg&s",
+      "mobile": "70385534533",
+      "email": "lauhit@gmail.com",
+      "company": "LG",
+      "title": "freelancer",
+      "groupId": "3"
+    },
+    {
+      "id": "43477",
+      "name": "Lau",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWVUPAuOsGF7X1lC912XzuUIJoNzxIDd1qQ&s",
+      "mobile": "70385534533",
+      "email": "lau@gmail.com",
+      "company": "IBM",
+      "title": "freelancer",
+      "groupId": "4"
+    },
+    {
+      "id": "43499",
+      "name": "neha",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiUvtYCuHnxrQ9iJVqomIDZ-QUVdSUwyKgQ&s",
+      "mobile": "70385534533",
+      "email": "neha@gmail.com",
+      "company": "wipro",
+      "title": "freelancer",
+      "groupId": "5"
+    },
+    {
+      "id": "6b68",
+      "name": "mannu",
+      "email": "maheshbabu@123gmail.com",
+      "company": "Bollywood",
+      "title": "Actor",
+      "mobile": "6868767566",
+      "imageUrl": "https://i.pinimg.com/736x/28/80/9a/28809a3a75bb4a7037d3349787594ea2.jpg",
+      "groupId": "6"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
